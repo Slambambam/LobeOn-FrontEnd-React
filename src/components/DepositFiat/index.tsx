@@ -18,19 +18,19 @@ export interface DepositFiatProps {
 const bankData = uid => [
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.bankName" />,
-        value: 'Diamant Bank',
+        value: 'First Investment Bank',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountNumber" />,
-        value: '10120212',
+        value: 'BG14FINV91501017382046 / BIC/SWIFT: FINVBGSF',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountName" />,
-        value: 'name',
+        value: 'MD LEADERS LTD.',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.phoneNumber" />,
-        value: '+3 8093 1212 12 12',
+        value: '+359 0700 12 777',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.referenceCode" />,

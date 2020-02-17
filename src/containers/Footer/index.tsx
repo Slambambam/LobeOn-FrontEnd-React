@@ -11,11 +11,11 @@ class FooterComponent extends React.Component<RouterProps> {
         return (
             <React.Fragment>
                 <footer className="pg-footer">
-                    <span>STATUS:LIVE | Version: v1.1 </span> |
-                    ©2020 LobeOn.com
-                    <a href="https://lobeon.com"></a>
-                </footer>
+                STATUS:LIVE |<span> © 2020 LobeOn.com </span>
+                 </footer>
             </React.Fragment>
+
+
         );
     }
 }
