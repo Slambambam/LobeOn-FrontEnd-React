@@ -26,7 +26,7 @@ const bankData = uid => [
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountName" />,
-        value: 'MD LEADER ltd. - You MUST INCLUDE the above message number in the bank deposit message in order to credit your Bitstamp account.',
+        value: 'MD LEADER ltd. - You MUST INCLUDE the above message number in the bank deposit message in order to credit your LobeOn account.',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.phoneNumber" />,
