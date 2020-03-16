@@ -22,7 +22,7 @@ const bankData = uid => [
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountNumber" />,
-        value: 'IBAN:BG14FINV91501017382046 | BIC/SWIFT:FINVBGSF | For all EU-Countries',
+        value: 'IBAN:BG14FINV91501017382046 | BIC/SWIFT:FINVBGSF | EU Bank SEPA',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountName" />,
@@ -30,7 +30,7 @@ const bankData = uid => [
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.phoneNumber" />,
-        value: '+44 800 610 1024',
+        value: '+359 0700 12 777',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.referenceCode" />,
