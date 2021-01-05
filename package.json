@@ -6,7 +6,7 @@
     "@openware/components": "2.3.0",
     "@openware/cryptofont": "2.3.0",
     "@types/ws": "^6.0.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bitcoincashjs": "0.1.10",
     "bootstrap": "^4.3.1",
     "history": "^4.7.2",
